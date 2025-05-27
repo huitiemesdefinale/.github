@@ -2,7 +2,7 @@
 
 **La plateforme tout-en-un pour organiser vos compétitions sans stress**
 
-![Bannière représentant une compétition multidisciplinaire](https://via.placeholder.com/800x400?text=Huitiemes+de+Finale+-+Organisez+vos+tournois)
+![Bannière représentant une compétition multidisciplinaire](https://placehold.co/800x400?text=Huitiemes+de+Finale+-+Organisez+vos+tournois)
 
 ## Le Problème ❓
 
