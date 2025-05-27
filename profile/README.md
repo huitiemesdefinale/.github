@@ -2,8 +2,6 @@
 
 **La plateforme tout-en-un pour organiser vos compétitions sans stress**
 
-![Bannière représentant une compétition multidisciplinaire](https://placehold.co/800x400?text=Huitiemes+de+Finale+-+Organisez+vos+tournois)
-
 ## Le Problème ❓
 
 Organiser une compétition devient souvent un casse-tête :
