@@ -1,0 +1,9 @@
+# Huitièmes de finale
+
+Pourquoi organiser une compétition devrait-il être si compliqué ? Entre les tableaux Excel qui s'embrouillent, les conversations éparpillées sur trois messageries différentes et les participants toujours à la recherche des dernières infos, l'organisation prend souvent plus de temps que l'événement lui-même. C'est cette frustration qui nous a poussés à créer Huitièmes de Finale, une plateforme tout-en-un pour les passionnés de compétition, qu'elle soit sportive, e-sportive ou même culinaire.
+L'idée est simple : proposer un outil accessible à tous, aussi facile à utiliser pour un petit tournoi entre voisins que pour une compétition plus sérieuse. Plus besoin de bricoler avec plusieurs applications. Notre solution intègre tout ce dont vous avez besoin : création d'événements, gestion des inscriptions, calendriers mis à jour automatiquement et même un espace dédié pour que les participants puissent échanger et suivre l'évolution des résultats.
+Que vous soyez une association sportive, un streamer organisant un tournoi pour sa communauté ou simplement un groupe d'amis voulant animer un week-end, Huitièmes de Finale s'adapte. La technique s'efface pour laisser toute la place à ce qui compte vraiment : l'esprit de compétition, les défis entre participants et le plaisir de jouer.
+Et parce qu'une compétition réussie, c'est avant tout une expérience fluide pour tout le monde, nous avons conçu une interface claire et intuitive. Les organisateurs gagnent du temps sur la logistique, tandis que les participants trouvent en un seul endroit toutes les informations dont ils ont besoin.
+
+Problématique courte : Pourquoi complexifier quand on peut juste… jouer ?
+Problématique longue : Comment faciliter la création, la gestion et le suivi de compétitions, tout en répondant aux besoins variés d'utilisateurs, allant des particuliers aux clubs sportifs et aux fédérations ?
